@@ -1,0 +1,13 @@
+input {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.name-text {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.email-text {
+  display: block;
+}
